@@ -2,6 +2,8 @@
 
 A full-stack dating application with real-time messaging, user matching, photo management, and an admin panel. Built with Angular 19 and ASP.NET Core 9.
 
+<img width="1604" height="938" alt="Captură de ecran 2025-02-27 005644" src="https://github.com/user-attachments/assets/191982b3-1679-47f1-b29c-f0e17c3c2309" />
+
 ## Features
 
 - **User Profiles** — Register, login, and manage detailed profiles with photos, interests, location, and bio
